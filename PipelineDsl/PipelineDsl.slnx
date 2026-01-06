@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PipelineDsl.Host/PipelineDsl.Host.csproj" />
+  <Project Path="PipelineDsl.csproj" />
+</Solution>
